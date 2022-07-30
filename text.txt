@@ -1,2 +1,5 @@
 java 
 CPP
+sql 
+MYSQL
+database
